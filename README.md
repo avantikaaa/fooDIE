@@ -1,2 +1,2 @@
-# Our Awesome Project
+# fooDIE
 
